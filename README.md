@@ -182,8 +182,6 @@ Model KMeans diterapkan untuk membagi seller menjadi 4 segmen:
 
 9. **Review Score Trend**: Regular Seller paling konsisten menjaga kepuasan pelanggan; High-Value sempat turun saat lonjakan pesanan.
 
-Berikut versi yang **lebih singkat dan padat** dari bagian **Strategy**:
-
 ---
 
 ## 🎯 Strategy
