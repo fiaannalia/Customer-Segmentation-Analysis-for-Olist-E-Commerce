@@ -1,13 +1,10 @@
-# Customer Segmentation Analysis for Olist-E-Commerce
+# 🛒 Customer Segmentation Analysis for Olist-E-Commerce
 
 ## Creator
 
 1. **Annalia Alfia Rahma** – fiaannalia2833@gmail.com  
 2. **M Narendra Atma Ghifari** – mnaghifari@gmail.com  
 3. **Muhammad Rizky Indrawan** – mochrizkyindrawan99@gmail.com
-
-
-# 🛒 Olist E-Commerce Seller Segmentation
 
 ##  Business Problem
 
@@ -268,6 +265,7 @@ Diskon 25% selama 6 bulan sebagai strategi loyalitas dan lock-in, dengan fitur p
 ## 📊 Tableau Dashboard
 
 Lihat visualisasi interaktif dari hasil segmentasi seller Olist pada dashboard berikut:
+
 🔗 [Olist Seller Cluster Analytics – Tableau Public](https://public.tableau.com/app/profile/rizky.muhammad.indrawan/viz/OlistSellerClusterAnalytics/Dashboard1?publish=yes)
 
 <img width="1286" height="890" alt="{E6F24E94-B9DA-47AA-BB0C-6E223BA1BF72}" src="https://github.com/user-attachments/assets/642adf76-3c0f-44fe-b504-47aceda5fce3" />
